@@ -11,7 +11,7 @@ Golang SLIP-0021 implementation according to the https://github.com/satoshilabs/
         "encoding/hex"
         "fmt"
 
-        slip21 "github.com/anytypeio/go-slip21"
+        slip21 "github.com/anyproto/go-slip21"
     )
 
     func main(){
